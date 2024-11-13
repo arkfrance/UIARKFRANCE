@@ -1,0 +1,83 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "HideIconAfter": 10,
+            "IconURL": "https://image.noelshack.com/fichiers/2023/44/5/1699051900-logoserveur.png",
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Bienvenue",
+                    "title1": "Bienvenue sur notre serveur jeune aventurier !",
+                    "text1": "Bienvenue sur notre serveur ARK Ascended - Là où les aventuriers deviennent des légendes ! Vous êtes prêt à vous plonger dans un monde brutal, préhistorique, rempli de mystères et de créatures fantastiques ? Alors ce serveur est l'endroit idéal pour vous ! Depuis plus de 8 ans maintenant, ARK FRANCE vous offre une expérience de jeu unique et immersive pour les survivants les plus intrépides !\n\n<TextStyle.Red>Caractéristiques du serveur :</>\n\nExplorez une version repensée de Island, avec des modifications uniques et des défis inédits qui vous attendent à chaque coin de la carte.\n\n<TextStyle.Red>Communauté active :</>\n\nRejoignez une communauté de joueurs passionnés qui partagent votre amour pour ARK. Notre serveur est composé de joueurs de tous niveaux d'expérience, prêts à s'entraider et à collaborer pour survivre.\n\n<TextStyle.Red>Ressources équilibrées :</>\n\nNous avons soigneusement ajusté les taux de récolte, de croissance et d'apprivoisement pour garantir un équilibre entre le défi de la survie et le plaisir de jouer.\n\n<TextStyle.Red>Événements spéciaux :</>\n\nNous organisons régulièrement des événements spéciaux, des courses de dinosaures, des arènes de combat et bien plus encore pour pimenter votre aventure sur ARK.\n\n<TextStyle.Red>Admins dévoués :</>\n\nNotre équipe d'administration est disponible pour résoudre les problèmes, garantir le fair-play et s'assurer que votre expérience de jeu est exceptionnelle.",
+                    "imageurl": ""
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Règles",
+                    "title1": "Règles des serveur:",
+                    "text1": "<TextStyle.Blue>1. Respect des autres joueurs:</> \n\n - Soyez courtois et respectueux envers les autres survivants.\n - Évitez les comportements offensants, le harcèlement, et les insultes.\n - Aucune discrimination, discours de haine ou langage inapproprié n'est toléré.\n\n<TextStyle.Blue>2. Tricherie et exploitation de bugs:</> \n\n - Toute forme de triche, y compris l'utilisation de logiciels tiers, est strictement interdite.\n - N'exploitez pas les bugs du jeu pour obtenir un avantage injuste. Signalez-les plutôt à l'administration.\n\n<TextStyle.Blue>3. Griefing et intimidation:</> \n\n - Ne cassez pas intentionnellement les tames en cours des autres joueurs.\n - Évitez d'intimider les autres joueurs ou de les harceler.\n - Ne construisez pas trop proche des autres joueurs pour éviter de bloquer les constructions.\n\n<TextStyle.Blue>4. Piratage et vol:</> \n\n - Le vol d'identifiants ou de données personnelles est illégal et entraînera une expulsion immédiate et une dénonciation aux autorités compétentes.\n - N'échangez pas de comptes ARK ou de biens virtuels contre de l'argent réel.\n\n<TextStyle.Blue>5. Remboursement en cas de crash:</> \n\n - Aucun remboursement de stuff, dinos, etc., en cas de crash du serveur. (Nous ne sommes pas responsables des crashs du jeu.)\n\n<TextStyle.Blue>6. Publicité non autorisée:</> \n\n - Ne faites pas de publicité pour d'autres serveurs ou communautés sans autorisation préalable de l'administration.\n\n<TextStyle.Blue>7. Administration du serveur:</> \n\n - Respectez les décisions et les instructions de l'administration du serveur.\n - Signalez tout comportement inapproprié ou infraction aux règles à l'administration.\n\n<TextStyle.Blue>8. Respect des paramètres du serveur:</> \n\n - Ne modifiez pas intentionnellement les paramètres du serveur ou ne tentez pas de les contourner.\n\n<TextStyle.Blue>9. Événements spéciaux:</> \n\n - Les événements spéciaux organisés par l'administration doivent être joués de manière équitable. Toute tentative de triche sera sévèrement sanctionnée.\n\n<TextStyle.Blue>10. Règles additionnelles:</> \n\n - L'administration se réserve le droit d'ajouter des règles spécifiques au serveur en fonction des besoins.\n\nLe non-respect de ces règles peut entraîner des avertissements, des suspensions temporaires, ou même l'expulsion permanente du serveur, selon la gravité de l'infraction. Assurez-vous que les règles sont claires et accessibles, et veillez à les faire respecter pour maintenir un environnement de jeu agréable pour tous les participants.",
+                    "title2": "Règlement Serveur ARK France:",
+                    "text2": "- Interdiction de jeter les oeufs de wyverns, magmasaures, deinonychus ou rock drake sur les cartes. Mangez-les!\n - Ne pas construire sur des zones à ressources (métal, cristal, obsidienne, etc.).\n - Il est interdit de spammer les fondations pour réserver une zone.\n - Vider totalement ou détruire les nids de castors pour permettre leur repop pour les prochains joueurs.\n - Laissez déverrouiller les extracteurs (pétrole, gaz, sève) pour que les autres joueurs puissent y accéder.\n - Il est interdit de bloquer les grottes contenant des artefacts ou des glitchs (pour Genesis 1).\n - Les enclos d'apprivoisement doivent être enlevés après usage.\n - Ne bloquez pas les ponts et plages. Laissez un passage pour les autres joueurs.\n - Il est interdit de construire des enclos démesurés par rapport à votre base et au nombre de dinos.\n - Il est interdit de laisser des dinos agressifs sur la map.\n - Il est interdit de bloquer les notes des explorateurs.\n - Il est interdit de construire ou de mettre des tourelles dans les failles aux Wyvernes.\n - Il est interdit de placer des structures devant les drops et beacons pour les récupérer plus rapidement.\n - Encouragez le fair-play dans la récupération des beacons (premier arrivé, premier servi).\n - Il est totalement interdit de PL (Power Leveling) les nouveaux joueurs en leur faisant passer des boss, en leur craftant des structures non débloquées ou en leur donnant des dinos trop puissants. Vous risquez de gâcher leur expérience de jeu même s'ils n'en sont pas conscients.",
+                    "imageurl": ""
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 2,
+                    "buttonText": "Rates",
+                    "title1": "Règles des serveur :",
+                    "text1": "- Expérience : x3\n- Taming : x3\n- Vitesse d'éclosion des oeufs : x3\n- Maturation des dinos : x3\n- Temps entre les câlins : /2\n- Temps entre les accouplements : /2\n- Récolte des ressources : x3\n- Niveau max des dinos sauvages : 150\n- Limite de dinos sortis par tribu : 150\n- Système de Stack X10 sur la poussière d'élément, le miel, la viande supérieure normale et poisson, le lait de Wyverne et le fertilisant.\n- Qualité des loots de la pêche : x3\n- Nombre de personne max par tribu : 10\n- Nombre d'alliance max par tribu : 3\n- Nombre max de tribu par alliance : 4\n- Système de protection des bases/dinos après votre déconnexion\n- Viseur activé\n- 3eme personne activée\n- Nombre max de créatures apprivoisées total (sorties) sur la map : 5000\n- Nombre max de structure par tribu/map : 5000\n- Construction dans les grottes désactivée\n- Nombre de créatures apprivoisées par tribu : 150\n- Nombre de structure sur les plateformes des dinos : 70",
+                    "title2": "Commandes tchat in game",
+                    "text2": "/showlimits - Affiche le nombre de structure que vous avez\n/decaytime - Affiche le temps avant suppression de vos structures\n/dctokens - Affiche le nombre de couleur que vous avez",
+                    "imageUrl": ""
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 1,
+                    "buttonText": "Comment gagner des niveaux ?",
+                    "title1": "Comment gagner des niveaux",
+                    "text1": "Initialement, dans Ark: Survival Ascended, le niveau maximum des personnages est de 105, mais il y a plusieurs façons de l'augmenter. Tout d'abord, il faut vaincre l'Overseer (le boss final The Island) en difficulté Alpha pour gagner 15 niveaux, soit un niveau maximum de 120. Ensuite, il est possible d'équiper un Chibi pour augmenter encore de 5 niveaux donc 125. La dernière tâche, et potentiellement la plus difficile, consiste à collecter plus de 200 notes d'explorateur sur l'île, ce qui augmentera encore de 10 niveaux et permettra d'atteindre le niveau de personnage maximum de 135.\n\nPour augmenter le niveau du Chibi, il faut tuer des dinosaures Alpha. Une fois que le Chibi est au niveau 6, le niveau du personnage est augmenté de 5. Tuer des dinosaures de niveau supérieur permet d'augmenter le niveau du Chibi plus rapidement. Les chibis peuvent être obtenus en battant l'Overseer ou en boutique.\n\nChibi level 1 de base a 0 xp.\nChibi pour qu'il soit level 2 il faut 300000 xp.\nChibi pour qu'il soit level 3 il faut 1050000 xp.\nChibi pour qu'il soit level 4 il faut 4050000 xp.\nChibi pour qu'il soit level 5 il faut 4650000 xp.\nChibi pour qu'il soit level 6 il faut 10200000 xp.\n\nTotal de 2025000 xp à faire.",
+                    "imageUrl": ""
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "ARK-FRANCE.FR",
+                    "url": "https://ark-france.fr/"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Discord du serveur",
+                    "url": "https://discord.gg/DrCK6rQ7Yz"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Patch notes ARK: Ascended",
+                    "url": "https://ark-france.fr/patch-notes-ark-survival-ascended-en-francais/"
+                }
+            },
+            {
+                "link4": {
+                    "text": "Boutique serveur",
+                    "url": "https://survivetheark.fr/"
+                }
+            }
+        ]
+    }
+}
